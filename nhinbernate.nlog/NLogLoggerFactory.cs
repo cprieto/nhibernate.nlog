@@ -6,12 +6,12 @@ namespace NHibernate
     {
         public IInternalLogger LoggerFor(string keyName)
         {
-            throw new NotImplementedException();
+            return new NLogLogger(keyName);
         }
 
         public IInternalLogger LoggerFor(System.Type type)
         {
-            throw new NotImplementedException();
+            return new NLogLogger(type.FullName);
         }
     }
 }
