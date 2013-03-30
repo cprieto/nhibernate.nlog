@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>nhinbernate.nlog</id>
+    <version>1.0.0</version>
+    <authors>Cristian Prieto</authors>
+    <owners>Cristian Prieto</owners>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NLog logger adapter for NHibernate</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>nhibernate nlog logger</tags>
+    <dependencies>
+      <dependency id="NHibernate" version="3.3" />
+      <dependency id="NLog" version="2.0" />
+    </dependencies>
+  </metadata>
+</package>
