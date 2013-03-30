@@ -7,7 +7,7 @@
     <owners>Cristian Prieto</owners>
     <projectUrl>https://github.com/cprieto/nhibernate.nlog</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>NLog logger adapter for NHibernate</description>
+    <description>NHibernate logger adapter for NLog</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags>nhibernate nlog logger</tags>
