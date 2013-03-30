@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Cristian Prieto</authors>
     <owners>Cristian Prieto</owners>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <projectUrl>https://github.com/cprieto/nhibernate.nlog</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>NLog logger adapter for NHibernate</description>
     <releaseNotes></releaseNotes>
