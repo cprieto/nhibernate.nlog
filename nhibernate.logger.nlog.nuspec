@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>nhibernate.logger.nlog</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>Cristian Prieto</authors>
     <owners>Cristian Prieto</owners>
     <projectUrl>https://github.com/cprieto/nhibernate.nlog</projectUrl>
