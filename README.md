@@ -1,18 +1,18 @@
-== NHibernate logging adapter for NLog
+# NHibernate logging adapter for NLog 
 With this adapter you can send NHibernate log messages directly to NLog, without any non-needed abstraction (like Common.Logging).
 
 The NuGet package add the needed app.config (or web.config) appSetting to enable NHibernate logging with NLog, every NHibernate logger starts with the NHibernate name. Just if you are curious, this is what we add to your app configuration file:
-```
+```xml
 <appSettings>
     <add key="nhibernate-logger" value="NHibernate.NLogLoggerFactory, NHibernate.NLog"/>
 </appSettings>
 ```
 For example, to send the NHibernate issued SQL to the trace NLog target first enable SQL messages in NHibernate (this is done simply adding the property show_sql in your NHibernate configuration):
-```
+```xml
 <property name="show_sql">true</property>
 ```
 Then, your NLog configuration should look like this:
-```
+```xml
 <targets>
   <target name="trace" type="Trace" />
 </targets>
