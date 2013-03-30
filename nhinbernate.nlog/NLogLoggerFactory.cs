@@ -1,7 +1,6 @@
 ﻿using System;
-using NHibernate;
 
-namespace nhinbernate.nlog
+namespace NHibernate
 {
     public class NLogLoggerFactory : ILoggerFactory
     {
@@ -10,7 +9,7 @@ namespace nhinbernate.nlog
             throw new NotImplementedException();
         }
 
-        public IInternalLogger LoggerFor(Type type)
+        public IInternalLogger LoggerFor(System.Type type)
         {
             throw new NotImplementedException();
         }

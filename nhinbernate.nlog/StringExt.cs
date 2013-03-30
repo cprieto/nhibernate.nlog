@@ -1,4 +1,4 @@
-﻿namespace nhinbernate.nlog
+﻿namespace NHibernate
 {
     internal static class StringExt
     {

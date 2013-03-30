@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhinbernate.nlog", "nhinber
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{B05CF3A8-3114-41D0-A966-54BC4C77616C}"
 	ProjectSection(SolutionItems) = preProject
-		nhinbernate.logger.nlog.nuspec = nhinbernate.logger.nlog.nuspec
+		nhibernate.logger.nlog.nuspec = nhibernate.logger.nlog.nuspec
 	EndProjectSection
 EndProject
 Global

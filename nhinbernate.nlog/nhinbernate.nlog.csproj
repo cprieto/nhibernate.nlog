@@ -7,8 +7,8 @@
     <ProjectGuid>{4A21FE5F-C600-4023-AF1D-C37C66EA38B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>nhinbernate.nlog</RootNamespace>
-    <AssemblyName>nhinbernate.nlog</AssemblyName>
+    <RootNamespace>NHibernate</RootNamespace>
+    <AssemblyName>NHibernate.NLog</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

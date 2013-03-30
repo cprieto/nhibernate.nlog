@@ -1,8 +1,7 @@
 ﻿using System;
-using NHibernate;
 using NLog;
 
-namespace nhinbernate.nlog
+namespace NHibernate
 {
     public class NLogLogger : IInternalLogger
     {
