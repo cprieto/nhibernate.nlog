@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>nhinbernate.nlog</id>
+    <id>nhibernate.logger.nlog</id>
     <version>1.0.0</version>
     <authors>Cristian Prieto</authors>
     <owners>Cristian Prieto</owners>
