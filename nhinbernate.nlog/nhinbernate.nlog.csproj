@@ -54,6 +54,7 @@
     <Compile Include="StringExt.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config.transform" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
